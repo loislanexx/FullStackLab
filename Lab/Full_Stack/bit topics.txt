@@ -1,0 +1,10 @@
+ex.1 -design a webpage using HTML
+ex.2 -3types of css
+ex.3 -countries
+ex.4 -valid mail DHTML
+ex.5a -Image slider show
+ex.5b -clock
+ex.6 -shopping cart
+ex.7 -Online super market
+ex.8 - todolist or react compound
+ex.10 -Ajax
